@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Pavi93445/DSAChallenge/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Pavi93445/DSAChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Pavi93445/DSAChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pavi93445/DSAChallenge/tree/master/0229-majority-element-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pavi93445/DSAChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pavi93445/DSAChallenge/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Pavi93445/DSAChallenge/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pavi93445/DSAChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
