@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavi93445/DSAChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Pavi93445/DSAChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pavi93445/DSAChallenge/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pavi93445/DSAChallenge/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavi93445/DSAChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pavi93445/DSAChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
