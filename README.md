@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Pavi93445/DSAChallenge/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
