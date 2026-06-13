@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavi93445/DSAChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Pavi93445/DSAChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pavi93445/DSAChallenge/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Pavi93445/DSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Pavi93445/DSAChallenge/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pavi93445/DSAChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Pavi93445/DSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Pavi93445/DSAChallenge/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Pavi93445/DSAChallenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Pavi93445/DSAChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavi93445/DSAChallenge/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Pavi93445/DSAChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pavi93445/DSAChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pavi93445/DSAChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
