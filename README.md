@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pavi93445/DSAChallenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pavi93445/DSAChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pavi93445/DSAChallenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pavi93445/DSAChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pavi93445/DSAChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pavi93445/DSAChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Pavi93445/DSAChallenge/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavi93445/DSAChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Pavi93445/DSAChallenge/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
